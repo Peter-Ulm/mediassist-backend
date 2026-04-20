@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+ECHO is on.
+# Environment
+.env
+.env.local
+.env.*
+ECHO is on.
+# IDE
+.vscode/
+.idea/
+ECHO is on.
+# Database
+*.db
+*.sqlite
+ECHO is on.
+# Logs
+*.log
+data/logs/
+ECHO is on.
+# OS
+.DS_Store
+Thumbs.db
